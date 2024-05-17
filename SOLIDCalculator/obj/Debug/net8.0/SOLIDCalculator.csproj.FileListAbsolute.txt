@@ -1,0 +1,14 @@
+C:\Users\darsh\OneDrive\Desktop\Work_palace\SOLIDCalculator\SOLIDCalculator\bin\Debug\net8.0\SOLIDCalculator.exe
+C:\Users\darsh\OneDrive\Desktop\Work_palace\SOLIDCalculator\SOLIDCalculator\bin\Debug\net8.0\SOLIDCalculator.deps.json
+C:\Users\darsh\OneDrive\Desktop\Work_palace\SOLIDCalculator\SOLIDCalculator\bin\Debug\net8.0\SOLIDCalculator.runtimeconfig.json
+C:\Users\darsh\OneDrive\Desktop\Work_palace\SOLIDCalculator\SOLIDCalculator\bin\Debug\net8.0\SOLIDCalculator.dll
+C:\Users\darsh\OneDrive\Desktop\Work_palace\SOLIDCalculator\SOLIDCalculator\bin\Debug\net8.0\SOLIDCalculator.pdb
+C:\Users\darsh\OneDrive\Desktop\Work_palace\SOLIDCalculator\SOLIDCalculator\obj\Debug\net8.0\SOLIDCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darsh\OneDrive\Desktop\Work_palace\SOLIDCalculator\SOLIDCalculator\obj\Debug\net8.0\SOLIDCalculator.AssemblyInfoInputs.cache
+C:\Users\darsh\OneDrive\Desktop\Work_palace\SOLIDCalculator\SOLIDCalculator\obj\Debug\net8.0\SOLIDCalculator.AssemblyInfo.cs
+C:\Users\darsh\OneDrive\Desktop\Work_palace\SOLIDCalculator\SOLIDCalculator\obj\Debug\net8.0\SOLIDCalculator.csproj.CoreCompileInputs.cache
+C:\Users\darsh\OneDrive\Desktop\Work_palace\SOLIDCalculator\SOLIDCalculator\obj\Debug\net8.0\SOLIDCalculator.dll
+C:\Users\darsh\OneDrive\Desktop\Work_palace\SOLIDCalculator\SOLIDCalculator\obj\Debug\net8.0\refint\SOLIDCalculator.dll
+C:\Users\darsh\OneDrive\Desktop\Work_palace\SOLIDCalculator\SOLIDCalculator\obj\Debug\net8.0\SOLIDCalculator.pdb
+C:\Users\darsh\OneDrive\Desktop\Work_palace\SOLIDCalculator\SOLIDCalculator\obj\Debug\net8.0\SOLIDCalculator.genruntimeconfig.cache
+C:\Users\darsh\OneDrive\Desktop\Work_palace\SOLIDCalculator\SOLIDCalculator\obj\Debug\net8.0\ref\SOLIDCalculator.dll
